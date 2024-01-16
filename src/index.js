@@ -2350,7 +2350,7 @@ const Et = "Blue Archive Logo Generator"
     "fallback-font": "Fallback 字体：",
     glow: Jt,
     "github-repo": "GitHub 仓库",
-    "adapter-repo": "改编者"
+    "adapter-repo": "维护"
 }
   , Gt = ["zh", "zh-CN", "zh-cn"].includes(navigator.language) ? "zh" : "en";
 jt({
